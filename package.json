@@ -1,0 +1,20 @@
+{
+  "name": "lista-tareas-node",
+  "version": "1.0.0",
+  "description": "lista tareas en node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "listatareas"
+  ],
+  "author": "Valentina Beltran",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^4.2.3",
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.4",
+    "uuid": "^9.0.1"
+  }
+}
