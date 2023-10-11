@@ -9,7 +9,7 @@ const Tareas = require('./models/tareas')
 
 
 const main = async() => {
-    console.log('Hola mundo');
+    console.log('Este es un nuevo cambio');
 
     let opt = '';
     const tareas = new Tareas();
